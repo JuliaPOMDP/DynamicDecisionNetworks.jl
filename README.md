@@ -9,4 +9,4 @@ This package is currently a stub for an interface for representing Dynamic Decis
 
 Note that Dynamic Bayesian Networks (DBNs) are a subset of DDNs, so this package should be suitable for representing DBNs as well.
 
-If you are interested in 
+If you are interested in contributing to the design, please reach out by filing an issue or on one of the [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) communication channels.
