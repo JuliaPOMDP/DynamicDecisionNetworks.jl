@@ -1,5 +1,8 @@
 module DynamicDecisionNetworks
 
-greet() = print("Hello World!")
+
+
+include("gen.jl")
+include("gen_impl.jl")
 
 end # module
